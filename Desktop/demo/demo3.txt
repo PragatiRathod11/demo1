@@ -1,0 +1,5 @@
+
+cat>demo3.txt
+cat > demo3.txt
+
+cat>demo3.txt
